@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rhizoai"
+version = "0.0.1"
+authors = [
+  { name="Mohamed Hassan", email="mhassan@tamu.edu" },
+  { name="Aramy Truong", email="aramy.truong@pnnl.gov" },
+  { name="Maruti Mudunuru", email="maruti@pnnl.gov" },
+  { name="Leslie Butler"},
+  { name="Andre Rovai"},
+  { name="Ivan Vargas-Lopez"},
+  { name="Curtis Larimer"},
+  { name="Claire Hermanson"},
+  { name="Joseph Daddona"},
+  { name="Amir Ahkami"},
+  { name="Jay Bardhan"},
+  { name="Tamas Varga", email="tamas.varga@pnnl.gov" },
+  { name="Kelly Stratton"},
+  { name="Satish Karra", email="karra@pnnl.gov" },
+  { name="Robert Twilley"},
+  { name="Navid Jafari"},
+]
+description = "A package to preprocess AI-ready datasets for rhizosphere imaging and root classification"
+readme = "README.md"
+requires-python = ">=3.9"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+dynamic = ["dependencies"]
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements_preprocess.txt"]}
+optional-dependencies.method1 = {file = ["requirements-method1.txt"]}
+optional-dependencies.method2 = {file = ["requirements-method2.txt"]}
