@@ -1,0 +1,133 @@
+cff-version: "1.2.0"
+title: "RhizoAI: AI-ready datasets and workflows for rhizosphere imaging and root
+  classification"
+message: "If you use this software or dataset, please cite the associated article."
+authors:
+- family-names: Hassan
+  given-names: Mohamed O.
+  affiliation: "Department of Civil and Environmental Engineering, Texas A&M University,
+    College Station, TX 77843, USA"
+  orcid: "https://orcid.org/0009-0007-9006-978X"
+- family-names: Truong
+  given-names: Aramy
+  orcid: "https://orcid.org/0009-0002-7467-7957"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Mudunuru
+  given-names: Maruti K.
+  orcid: "https://orcid.org/0000-0002-2158-7723"
+  affiliation: "Subsurface Science Group, Pacific Northwest National Laboratory, Richland,
+    WA 99352, USA"
+  email: maruti@pnnl.gov
+- family-names: Butler
+  given-names: Leslie G.
+  orcid: "https://orcid.org/0000-0003-1547-608X"
+  affiliation: "Department of Chemistry, Louisiana State University, Baton Rouge,
+    LA 70803, USA"
+- family-names: Rovai
+  given-names: Andre
+  orcid: "https://orcid.org/0000-0003-4117-2055"
+  affiliation: "Smithsonian Environmental Research Center, Smithsonian Institution,
+    Edgewater, MD 21037, USA"
+- family-names: Vargas-Lopez
+  given-names: Ivan
+  orcid: "https://orcid.org/0000-0001-9435-8430"
+  affiliation: "Department of Oceanography and Coastal Sciences, Louisiana State University,
+    Baton Rouge, LA 70803, USA"
+- family-names: Larimer
+  given-names: Curtis
+  orcid: "https://orcid.org/0000-0001-6634-5384"
+  affiliation: "Chemical and Biological Signatures Group, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Hermanson
+  given-names: Clare
+  affiliation: "Department of Chemistry, University of Colorado Boulder, Boulder,
+    Colorado 80309"
+- family-names: Daddona
+  given-names: Joseph
+  affiliation: "Department of Chemistry, University of Oregon, Eugene, Oregon 97403"
+- family-names: Ahkami
+  given-names: Amir H.
+  orcid: "https://orcid.org/0000-0002-0545-1236"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Bardhan
+  given-names: Jay
+  orcid: "https://orcid.org/0000-0002-6051-8499"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Varga
+  given-names: Tamas
+  orcid: "https://orcid.org/0000-0002-5492-866X"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Stratton
+  given-names: Kelly
+  orcid: "https://orcid.org/0000-0002-1721-9688"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Karra
+  given-names: Satish
+  orcid: "https://orcid.org/0000-0001-7847-6293"
+  affiliation: "Environmental Molecular Sciences Laboratory, Pacific Northwest National
+    Laboratory, Richland, WA 99352, USA"
+- family-names: Twilley
+  given-names: Robert
+  orcid: "https://orcid.org/0000-0002-6173-6033"
+  affiliation: "Department of Oceanography and Coastal Sciences, Louisiana State University,
+    Baton Rouge, LA 70803, USA"
+- family-names: Jafari
+  given-names: Navid H.
+  orcid: "https://orcid.org/0000-0002-4394-3776"
+  affiliation: "Department of Civil and Environmental Engineering, Texas A&M University,
+    College Station, TX 77843, USA"
+contact:
+- family-names: Mudunuru
+  given-names: Maruti K.
+  orcid: "https://orcid.org/0000-0002-2158-7723"
+  email: maruti@pnnl.gov
+preferred-citation:
+  authors:
+  - family-names: Hassan
+    given-names: Mohamed O.
+  - family-names: Truong
+    given-names: Aramy
+  - family-names: Mudunuru
+    given-names: Maruti K.
+  - family-names: Butler
+    given-names: Leslie G.
+  - family-names: Rovai
+    given-names: Andre
+  - family-names: Vargas-Lopez
+    given-names: Ivan
+  - family-names: Larimer
+    given-names: Curtis
+  - family-names: Hermanson
+    given-names: Clare
+  - family-names: Daddona
+    given-names: Joseph
+  - family-names: Ahkami
+    given-names: Amir H.
+  - family-names: Bardhan
+    given-names: Jay
+  - family-names: Varga
+    given-names: Tamas
+  - family-names: Stratton
+    given-names: Kelly
+  - family-names: Karra
+    given-names: Satish
+  - family-names: Twilley
+    given-names: Robert
+  - family-names: Jafari
+    given-names: Navid H.
+  date-published: 2025-10-15
+  doi: 10.1016/j.scitotenv.2025.180315
+  journal: "Science of The Total Environment"
+  publisher:
+    name: Elsevier
+  start: 180315
+  title: "From pixels to patterns: Coupling Optical Coherence Tomography and machine
+    learning for monitoring coastal wetland root systems"
+  type: article
+  url: "https://doi.org/10.1016/j.scitotenv.2025.180315"
+  volume: 999

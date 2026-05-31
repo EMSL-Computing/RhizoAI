@@ -6,22 +6,22 @@ build-backend = "setuptools.build_meta"
 name = "rhizoai"
 version = "0.0.1"
 authors = [
-  { name="Mohamed Hassan", email="mhassan@tamu.edu" },
+  { name="Mohamed O. Hassan", email="mhassan@tamu.edu" },
   { name="Aramy Truong", email="aramy.truong@pnnl.gov" },
-  { name="Maruti Mudunuru", email="maruti@pnnl.gov" },
-  { name="Leslie Butler"},
-  { name="Andre Rovai"},
-  { name="Ivan Vargas-Lopez"},
-  { name="Curtis Larimer"},
-  { name="Claire Hermanson"},
-  { name="Joseph Daddona"},
-  { name="Amir Ahkami"},
-  { name="Jay Bardhan"},
-  { name="Tamas Varga", email="tamas.varga@pnnl.gov" },
-  { name="Kelly Stratton"},
+  { name="Maruti K. Mudunuru", email="maruti@pnnl.gov" },
+  { name="Leslie G. Butler", email="lbutler@lsu.edu" },
+  { name="Andre Rovai", email="rovaias@si.edu" },
+  { name="Ivan Vargas-Lopez", email="ivarga2@lsu.edu" },
+  { name="Curtis Larimer", email="curtis.larimer@pnnl.gov" },
+  { name="Clare Hermanson", email="Clare.Hermanson@colorado.edu" },
+  { name="Joseph Daddona", email="jdaddona@uoregon.edu" },
+  { name="Amir H. Ahkami", email="amir.ahkami@pnnl.gov" },
+  { name="Jay Bardhan", email="jaydeep.bardhan@pnnl.gov" },
+  { name="Tamas Varga", email="Tamas.Varga@pnnl.gov" },
+  { name="Kelly Stratton", email="kelly.stratton@pnnl.gov" },
   { name="Satish Karra", email="karra@pnnl.gov" },
-  { name="Robert Twilley"},
-  { name="Navid Jafari"},
+  { name="Robert Twilley", email="rtwilley@lsu.edu" },
+  { name="Navid H. Jafari", email="njafari@tamu.edu" },
 ]
 description = "A package to preprocess AI-ready datasets for rhizosphere imaging and root classification"
 readme = "README.md"
