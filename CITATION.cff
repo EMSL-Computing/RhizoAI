@@ -2,6 +2,7 @@ cff-version: "1.2.0"
 title: "RhizoAI: AI-ready datasets and workflows for rhizosphere imaging and root
   classification"
 message: "If you use this software or dataset, please cite the associated article."
+doi: 10.5281/zenodo.17766299
 authors:
 - family-names: Hassan
   given-names: Mohamed O.
